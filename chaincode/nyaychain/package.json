@@ -1,0 +1,1 @@
+{"name":"nyaychain-chaincode","version":"1.0.0","description":"Hyperledger Fabric chaincode for NyayChain audit events","main":"index.js","engines":{"node":">=18"},"scripts":{"start":"node index.js"},"dependencies":{"fabric-contract-api":"2.2.0","fabric-shim":"2.5.0"}}

@@ -1,0 +1,1 @@
+{"name":"nyaychain-fabric-service","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node server.js"},"dependencies":{"@hyperledger/fabric-gateway":"1.8.0","@grpc/grpc-js":"1.13.4","express":"5.1.0"}}

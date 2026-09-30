@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+nyaychain.db
+uploads/*
+!uploads/.gitkeep
+fabric-service/node_modules/
+fabric-service/.env
